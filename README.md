@@ -17,16 +17,16 @@ Run all cells to see the data summary and generated plots.
 📊 Visual Insights
 Step	Description	Screenshot
 Data Inspection	Using .head(), .info(), and .describe() to understand the structure.	
-![alt text](Screenshots/image-2.png)
+![alt text](/Screenshots/image-2.png)
 Feature Relationships	Scatter plots showing sepal and petal dimensions.	
-![alt text](Screenshots/image-3.png)
-![alt text](Screenshots/image-4.png)
+![alt text](/Screenshots/image-3.png)
+![alt text](/Screenshots/image-4.png)
 Global View	A Pairplot visualizing relationships between all features simultaneously.	
-![alt text](Screenshots/image-5.png)
+![alt text](/Screenshots/image-5.png)
 Distributions	Histograms showing the frequency and range of feature values.	
-![alt text](Screenshots/image-6.png)
+![alt text](/Screenshots/image-6.png)
 Outlier Detection	Box plots used to identify data spread and potential outliers per species.	
-![alt text](Screenshots/image-7.png)
+![alt text](/Screenshots/image-7.png)
 🏠 Task 6: House Price Prediction
 Objective: Predict California house prices using property features (income, age, location) with a Gradient Boosting model and a Streamlit dashboard.
 📂 Files
@@ -46,17 +46,17 @@ Backend Performance
 The model utilizes a Gradient Boosting Regressor. The console output confirms the training success and provides evaluation metrics.
 R-Squared Score: ~0.81 (High accuracy).
 Mean Absolute Error (MAE): Tracking average prediction deviation.
-![alt text](Screenshots/image-8.png)
+![alt text](/Screenshots/image-8.png)
 Interactive Dashboard (Streamlit)
 The web application is divided into three professional sections:
 Exploratory Data Analysis (EDA): Displays a preview of the raw census data and a Correlation Heatmap to show which features (like Median Income) most impact house prices.
-![alt text](Screenshots/image-9.png)
+![alt text](/Screenshots/image-9.png)
 Model Performance Metrics: Real-time display of Accuracy and Error scores in a dashboard format.
-![alt text](Screenshots/image-10.png)
+![alt text](/Screenshots/image-10.png)
 Predictive Tool: An interface where users can input custom data to receive an instant price estimation.
-![alt text](Screenshots/image-11.png)
+![alt text](/Screenshots/image-11.png)
 
-![alt text](Screenshots/image-12.png)
+![alt text](/Screenshots/image-12.png)
 🛠️ Technologies Used
 Python: Core logic.
 Pandas/NumPy: Data manipulation.
