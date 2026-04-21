@@ -68,9 +68,12 @@ Metrics: Real-time model performance visualization.
 
 Prediction Tool: Interactive sliders for users to estimate market value instantly.
 
+For House Price App: streamlit run App.py
+
 ![alt text](/Screenshots/image-9.png)
 
 ![alt text](/Screenshots/image-11.png)
+
                                     🌸 Task 1: Iris Dataset Visualization
 
 Objective: Perform comprehensive Exploratory Data Analysis (EDA) on the classic Iris dataset to identify patterns and outliers.
@@ -113,9 +116,6 @@ cd Internship_ML
 pip install pandas numpy seaborn matplotlib scikit-learn streamlit transformers torch
 
 
-3. Launch the Applications
 
-For House Price App: streamlit run App.py
 
-For Mental Health Chatbot: streamlit run Serenity_App.py
 
