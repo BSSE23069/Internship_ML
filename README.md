@@ -16,14 +16,11 @@ Dataset: Facebook AI’s EmpatheticDialogues (~25k samples).
 UI/UX: A clean, calming web interface built with Streamlit and deployed via Netlify.
 Functionality: Includes emotion-state selection (Sad, Anxious, etc.) to guide the conversation.
 Landing Page	Chat Interface
-
 ![alt text](/Screenshots/image-19%20(1).png)
-![alt text](/Screenshots/image-19%20(2).png)
 ![alt text](/Screenshots/image-19%20(3).png)
-
+![alt text](/Screenshots/image-19%20(2).png)
 🛠️ Training & Tech Stack
 The model was fine-tuned using the Hugging Face Trainer API. Below are the training metrics and the architecture overview.
-
 ![alt text](/Screenshots/image-15.png)
 
 
@@ -70,3 +67,4 @@ Bash
 pip install pandas numpy seaborn matplotlib scikit-learn streamlit transformers torch
 3. Launch the Applications
 For House Price App: streamlit run App.py
+For Mental Health Chatbot: streamlit run Serenity_App.py
