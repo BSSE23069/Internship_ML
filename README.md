@@ -13,6 +13,10 @@ website:
        you can click link to see it 
        static app:
        "https://florentine-numan.netlify.app/"
+ ![alt text](/Screenshots/image-19%20(1).png) 
+ ![alt text](/Screenshots/image-19%20(2).png) 
+ ![alt text](/Screenshots/image-19%20(3).png) 
+       
        Hugging Face:
        "https://huggingface.co/spaces/NumanTahir/Health.ai"
        ![alt text](/Screenshots/image-18.png)
