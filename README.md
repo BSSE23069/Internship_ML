@@ -36,7 +36,7 @@ Outlier Detection	Box plots used to identify data spread and potential outliers 
 website:
        you can click link to see it 
        "https:/"
- ![alt text](/Screenshots/image13.png) 
+ ![alt text](/Screenshots/image-13.png) 
  ![alt text](/Screenshots/image-14.png)     
  ![alt text](/Screenshots/image-15.png)
  ![alt text](/Screenshots/image-16.png)
