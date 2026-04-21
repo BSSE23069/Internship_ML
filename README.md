@@ -17,15 +17,15 @@ UI/UX: A clean, calming web interface built with Streamlit and deployed via Netl
 Functionality: Includes emotion-state selection (Sad, Anxious, etc.) to guide the conversation.
 Landing Page	Chat Interface
 
-![alt text](https://raw.githubusercontent.com/your-username/your-repo/main/Screenshots/image-19%20(1).png)
-![alt text](https://raw.githubusercontent.com/your-username/your-repo/main/Screenshots/image-19%20(3).png)
+![alt text](/Screenshots/image-19%20(1).png)
+![alt text](/Screenshots/image-19%20(3).png)
 
 🛠️ Training & Tech Stack
 The model was fine-tuned using the Hugging Face Trainer API. Below are the training metrics and the architecture overview.
 
-![alt text](https://raw.githubusercontent.com/your-username/your-repo/main/Screenshots/image-15.png)
+![alt text](/Screenshots/image-15.png)
 
-![alt text](https://raw.githubusercontent.com/your-username/your-repo/main/Screenshots/image-19%20(2).png)
+![alt text](/Screenshots/image-19%20(2).png)
 Live App (Static): Serenity on Netlify
 Model Space: Health.ai on Hugging Face
 🏠 Task 6: House Price Prediction Dashboard
@@ -39,9 +39,9 @@ The application features a professional dark-mode UI with three main sections:
 EDA: Live dataset preview and correlation heatmaps.
 Metrics: Real-time model performance visualization.
 Prediction Tool: Interactive sliders for users to estimate market value instantly.
-![alt text](https://raw.githubusercontent.com/your-username/your-repo/main/Screenshots/image-9.png)
+![alt text](/Screenshots/image-9.png)
 
-![alt text](https://raw.githubusercontent.com/your-username/your-repo/main/Screenshots/image-11.png)
+![alt text](/Screenshots/image-11.png)
 🌸 Task 1: Iris Dataset Visualization
 Objective: Perform comprehensive Exploratory Data Analysis (EDA) on the classic Iris dataset to identify patterns and outliers.
 🔍 Insights & Visuals
@@ -49,8 +49,8 @@ Statistical Summary: Used .describe() and .info() for data integrity checks.
 Relationships: Utilized Seaborn pairplot and scatterplot to visualize cluster separation between species.
 Distributions: Histograms and Box plots were used to detect outliers and feature spread.
 Feature Relationships	Data Distribution
-![alt text](https://raw.githubusercontent.com/your-username/your-repo/main/Screenshots/image-5.png)
-![alt text](https://raw.githubusercontent.com/your-username/your-repo/main/Screenshots/image-7.png)
+![alt text](/Screenshots/image-5.png)
+![alt text](/Screenshots/image-7.png)
 🛠️ Technologies Used
 Languages: Python
 Data Science: Pandas, NumPy, Scikit-Learn
@@ -69,9 +69,3 @@ Bash
 pip install pandas numpy seaborn matplotlib scikit-learn streamlit transformers torch
 3. Launch the Applications
 For House Price App: streamlit run App.py
-<<<<<<< HEAD
-For Mental Health Chatbot: streamlit run Serenity_App.py
-=======
-
-For Mental Health Chatbot: streamlit run Serenity_App.py
->>>>>>> 17e599427d92a08cf19be9f3a3561a552f61557c
