@@ -36,11 +36,11 @@ Outlier Detection	Box plots used to identify data spread and potential outliers 
 website:
        you can click link to see it 
        "https:/"
- ![alt text](image13.png) 
- ![alt text](image-14.png)     
- ![alt text](image-15.png)
- ![alt text](image-16.png)
- ![alt text](image-17.png)
+ ![alt text](/Screenshots/image13.png) 
+ ![alt text](/Screenshots/image-14.png)     
+ ![alt text](/Screenshots/image-15.png)
+ ![alt text](/Screenshots/image-16.png)
+ ![alt text](/Screenshots/image-17.png)
 
                         🏠 Task 6: House Price Prediction
 Objective: Predict California house prices using property features (income, age, location) with a Gradient Boosting model and a Streamlit dashboard.
