@@ -15,7 +15,7 @@ website:
        "https://florentine-numan.netlify.app/"
        Hugging Face:
        "https://huggingface.co/spaces/NumanTahir/Health.ai"
-       ![alt text](/Screenshots/image18.png)
+       ![alt text](/Screenshots/image-18.png)
  ![alt text](/Screenshots/image-13.png) 
  ![alt text](/Screenshots/image-14.png)     
  ![alt text](/Screenshots/image-15.png)
